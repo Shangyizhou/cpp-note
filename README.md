@@ -32,15 +32,15 @@
 
 # Linux 环境编程
 
-[exec](./Linux环境编程/exec函数族.md)
+[exec]([linux]/exec函数族.md)
 
-[fork](./Linux环境编程/fork.md)
+[fork]([linux]/fork.md)
 
-[管道](./Linux环境编程/管道.md)
+[管道]([linux]/管道.md)
 
-[mmap](./Linux环境编程/共享存储区.md)
+[mmap]([linux]/共享存储区.md)
 
-[ucontext]([Linux]/ucontext函数族.md)
+[ucontext]([linux]/ucontext函数族.md)
 
 # 计算机组成原理
 
