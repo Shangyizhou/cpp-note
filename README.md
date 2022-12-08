@@ -1,6 +1,6 @@
 # cpp-note
 
-[linux]:./Linux环境编程
+
 
 # 简介
 
@@ -32,15 +32,23 @@
 
 # Linux 环境编程
 
-[exec]([linux]/exec函数族.md)
+[exec](./Linux环境编程/exec函数族.md)
 
-[fork]([linux]/fork.md)
+[fork](./Linux环境编程/fork.md)
 
-[管道]([linux]/管道.md)
+[僵尸进程/孤儿进程](./Linux环境编程/僵尸进程和孤儿进程.md)
 
-[mmap]([linux]/共享存储区.md)
+[管道](./Linux环境编程/管道.md)
 
-[ucontext]([linux]/ucontext函数族.md)
+[mmap](./Linux环境编程/共享存储区.md)
+
+[ucontext](./Linux环境编程/ucontext函数族.md)
+
+
+
+
+
+
 
 # 计算机组成原理
 
@@ -55,8 +63,6 @@
 [指令系统](./计算机组成原理/07.指令系统.md)
 
 [CPU的结构和功能](./计算机组成原理/08.CPU的结构和功能.md)
-
-
 
 # 操作系统
 
