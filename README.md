@@ -1,4 +1,7 @@
 # cpp-note
+
+[linux]:./Linux环境编程
+
 # 简介
 
 本仓库用于储存我学习 C++ 的各类知识，包括基础语法、Linux 环境下编程、专业课知识等。
@@ -37,7 +40,7 @@
 
 [mmap](./Linux环境编程/共享存储区.md)
 
-[ucontext](./Linux下环境编程/ucontext函数族.md)
+[ucontext]([Linux]/ucontext函数族.md)
 
 # 计算机组成原理
 
